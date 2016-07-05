@@ -1,6 +1,6 @@
 do
 
-function run(msg, matches)
+function run(msg)
   return "0$"
 end
 
